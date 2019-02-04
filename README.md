@@ -11,3 +11,6 @@ thulac只需要pip install thulac就可安装
 https://pan.baidu.com/share/link?shareid=1988562907&uk=2738088569#list/path=%2Fltp-models%2F3.4.0
 
 下载结束后，把cws.model,parser.model, pos.model放入py文件相同目录即可运行
+
+爬虫方面，我用到了 beautifulsoup4
+安装方法：pip install beautifulsoup4
