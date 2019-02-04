@@ -1,4 +1,4 @@
-# NLP
+# Relation-Scrape
 Python使用的库：pyltp
 windows只支持python3.5,python3.6
 如果是windows的话，直接pip安装会出现报错，除非安装对应版本的VS。
